@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1582488126 source:c:\users\casper\documents\codebloks\c programlama\ilk\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1582488126 source:c:\users\casper\documents\github\ileri-c-programlama-advenced-c_programming\ilk\main.c
+	<stdio.h>
+	<stdlib.h>
+
