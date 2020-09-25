@@ -36,7 +36,7 @@ int abs_num(int num){
 
 
 void yaz(void){
-    printf("void fonk. geri deger gondermeyen bir fonksiyondur.\n");
+    printf("void fonk. geri deger gondermeyen bir fonksiyondur.\n"); 
     printf("int fonk. geri deger gonderen bir fonksiyondur.\n\n\n");
 }
 
