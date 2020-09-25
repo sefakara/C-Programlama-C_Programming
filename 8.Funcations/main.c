@@ -75,12 +75,12 @@ int main()
     int a = 10, b = 20;
 
     printf("\n\n\na : %d, b : %d",a,b);
-    swap_value(a,b);                        // deger ile cagýrma
+    swap_value(a,b);                        // deger ile cagirma
     printf("\na : %d, b : %d",a,b);
 
 
     printf("\n\n\na : %d, b : %d",a,b);
-    swap_referance(&a,&b);                  // referans ile cagýrma
+    swap_referance(&a,&b);                  // referans ile cagirma
     printf("\na : %d, b : %d",a,b);
 
 
