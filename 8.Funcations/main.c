@@ -36,7 +36,7 @@ int abs_num(int num){
 
 
 void yaz(void){
-    printf("void fonk. geri deger gondermeyen bir fonksiyondur.\n");
+    printf("void fonk. geri deger gondermeyen bir fonksiyondur.\n"); 
     printf("int fonk. geri deger gonderen bir fonksiyondur.\n\n\n");
 }
 
@@ -75,12 +75,12 @@ int main()
     int a = 10, b = 20;
 
     printf("\n\n\na : %d, b : %d",a,b);
-    swap_value(a,b);                        // deger ile cagýrma
+    swap_value(a,b);                        // deger ile cagirma
     printf("\na : %d, b : %d",a,b);
 
 
     printf("\n\n\na : %d, b : %d",a,b);
-    swap_referance(&a,&b);                  // referans ile cagýrma
+    swap_referance(&a,&b);                  // referans ile cagirma
     printf("\na : %d, b : %d",a,b);
 
 
