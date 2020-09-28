@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1601193606 source:c:\users\casper\documents\codebloks\github\create_library\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mylibrary.h"
+
+1601269059 c:\users\casper\documents\codebloks\github\create_library\mylibrary.h
+
+1601193598 source:c:\users\casper\documents\codebloks\github\create_library\mylibrary.c
+	"mylibrary.h"
+
