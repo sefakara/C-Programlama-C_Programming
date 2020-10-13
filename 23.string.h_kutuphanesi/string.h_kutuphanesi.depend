@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602580007 source:c:\users\casper\documents\codebloks\github\string.h_kutuphanesi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
