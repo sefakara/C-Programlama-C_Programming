@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603439479 source:c:\users\casper\documents\codebloks\github\stdint.h_kütüphanesi\main.c
+	<stdio.h>
+	<stdint.h>
+
