@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603965024 source:c:\users\casper\documents\codebloks\github\time\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
